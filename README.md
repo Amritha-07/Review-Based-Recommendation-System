@@ -33,6 +33,6 @@ To download the code and data files for this project, you can clone this GitHub 
 
 ## References
 
-This project was inspired by and based on the following sources:
+This project dataset was from the following sources:
 
 - [Customer reviews of amazon products Dataset](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products/data) from kaggle
