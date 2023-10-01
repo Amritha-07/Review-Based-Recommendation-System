@@ -3,18 +3,21 @@
 A recommendation system for amazon products.
 It uses Python and various NLP libraries, such as NLTK to analyze the reviews and products and match them based on their similarity. The project aims to provide a personalized and user-friendly way to discover and compare Amazon products.
 
+<center>
+    <img src='img/snap_1.png' alt='image' width='90%' name='snap_1'/>
+</center>
+
 ## Tech-Stack
 
 - Python
 
 ## Features
 
-- The application allows the user to enter a product name or a product category that they are interested in.
-- The application searches the Amazon dataset for the products that match the user input.
-- The application allows the user to select a product that they want to get recommendations for.
-- The application extracts the reviews of the selected product and performs NLP tasks, such as tokenization, lemmatization, stopword removal, sentiment analysis, etc.
-- The application uses the cosine_similarity and pairwise distance model to create word embeddings for the reviews and the product descriptions and calculates their cosine similarity.
-- 
+- The notebook allows the user to enter a product name that they are interested in.
+- The notebook extracts the reviews of that product and performs NLP tasks, such as tokenization, lemmatization, stopword removal, sentiment analysis, etc.
+- The notebook uses the cosine_similarity and pairwise distance model to create word embeddings for the reviews and the product descriptions and calculates their cosine similarity.
+- The notebook then recommends the top 5 products that are most similar to the selected product based on the reviews and product descriptions.
+
 ## Installation and Usage
 
 To install and run this project, you need to have Python 3 installed on your computer. You also need to install and import the following Python libraries:
