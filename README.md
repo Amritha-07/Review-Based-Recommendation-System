@@ -32,7 +32,7 @@ You can use any IDE or editor of your choice.
 
 To download the code and data files for this project, you can clone this GitHub repository using the following command:
 
-```git clone https://github.com/myusername/Review-Based-Recommendation-System.git```
+```https://github.com/Amritha-07/Review-Based-Recommendation-System.git```
 
 ## References
 
